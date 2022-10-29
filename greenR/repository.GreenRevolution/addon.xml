@@ -4,9 +4,9 @@
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
         <extension point="xbmc.addon.repository" name="[COLOR lime]Green Revolution Repository[/COLOR]">
-            <info compressed="false">https://repo.drycloth.org/greenR/addons.xml</info>
-            <checksum>https://repo.drycloth.org/greenR/addons.xml.md5 </checksum>
-            <datadir zip="true">https://repo.drycloth.org/greenR/</datadir>
+            <info compressed="false">https://greenvip.github.io/greenR/addons.xml</info>
+            <checksum>https://greenvip.github.io/greenR/addons.xml.md5 </checksum>
+            <datadir zip="true">https://greenvip.github.io/greenR/</datadir>
             <hashes>false</hashes>
 		  
         </extension>

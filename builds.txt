@@ -1,6 +1,6 @@
 name="soKre Green Revolution Build"
 version="1.2"
-url="https://www.dropbox.com/s/zbtki2d8yj4llrf/GreenRevolution12.zip?dl=1"
+url="https://www.dropbox.com/s/yhdrzdbbvtcorv5/GreenRevolution12.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="19.4"

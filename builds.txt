@@ -1,4 +1,4 @@
-name="soKre Green Revolution Build"
+name="Green Revolution Build - KreOS"
 version="1.2"
 url="https://www.dropbox.com/s/l333xvftcucgem4/GreenRevolution12.zip?dl=1"
 minor="http://"

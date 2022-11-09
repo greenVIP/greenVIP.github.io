@@ -13,7 +13,7 @@ info="http://"
 description="[COLOR lime]Kodi Balkan Green - KreOS.[/COLOR]"
 
 
-name=" -Reload PVR lists "
+name="Reload Green Revolution PVR lists"
 version="1.0"
 url="https://www.dropbox.com/s/qhfzyv0i4isa3bd/pvrfix.zip?dl=1"
 minor="http://"
@@ -28,7 +28,7 @@ info="http://"
 description="Ako ne radi PVR, napravite reload liste liste"
 
 
-name="--- ZADAR BUILDS ---"
+name="------- ZADAR BUILDS -------"
 version="1.0"
 url=""
 minor="http://"

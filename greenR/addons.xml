@@ -3,7 +3,7 @@
 	
 <addon id="plugin.video.xtream-codes" name="Xtream-Codes IPTV" version="2.2" provider-name="MikkM, PinkPuma">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.addon.common" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="init.py">

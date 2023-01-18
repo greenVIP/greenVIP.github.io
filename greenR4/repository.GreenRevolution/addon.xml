@@ -4,9 +4,9 @@
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
         <extension point="xbmc.addon.repository" name="[COLOR lime]Green Revolution Repository[/COLOR]">
-            <info compressed="false">https://repo.bilosta.org/green/addons.xml</info>
-            <checksum>https://repo.bilosta.org/green/addons.xml.md5 </checksum>
-            <datadir zip="true">https://repo.bilosta.org/green/</datadir>
+            <info compressed="false">https://greenvip.github.io/greenR4/addons.xml</info>
+            <checksum>https://greenvip.github.io/greenR4/addons.xml.md5 </checksum>
+            <datadir zip="true">https://greenvip.github.io/greenR4</datadir>
             <hashes>false</hashes>
 		  
         </extension>

@@ -28,7 +28,7 @@ description="[COLOR lime]Kodi Balkan Green - KreOS.[/COLOR]"
 
 name="Green KreOS (Seren)"
 version="1.2"
-url="https://www.dropbox.com/s/q9zp7zyiuc4c4vl/GreenRevolution.zip?dl=1"
+url="https://api.onedrive.com/v1.0/shares/s!AoRJJ7eXsXdtiUKqlP230OCdlWqb/root/content"
 minor="http://"
 gui="http://"
 kodi="19.5"

@@ -36,7 +36,7 @@ icon="https://www.dropbox.com/s/fnjcmy6hh7assyf/kodi.pozadina.jpg?dl=1"
 fanart="https://www.dropbox.com/s/fnjcmy6hh7assyf/kodi.pozadina.jpg?dl=1"
 preview="http://"
 adult="no"
-description="Uzivajte u N01 Build by ZadarBuild.eu"
+description="Kodi Balkan Green with Seren - KreOS"
 
 name="GreenKlik fix"
 version="1.0"

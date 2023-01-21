@@ -28,7 +28,7 @@ description="[COLOR lime]Kodi Balkan Green - KreOS.[/COLOR]"
 
 name="Green KreOS (Seren)"
 version="1.5"
-url="https://api.onedrive.com/v1.0/shares/s!AoRJJ7eXsXdtiUKqlP230OCdlWqb/root/content"
+url="https://api.onedrive.com/v1.0/shares/s!AoRJJ7eXsXdtiUO487vkSr9OCgxs/root/content"
 gui="http://"
 kodi="19.4"
 theme="http://"

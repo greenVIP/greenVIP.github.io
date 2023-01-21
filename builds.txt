@@ -1,3 +1,17 @@
+name="------- GREEN REVOLUTION -------"
+version="1.0"
+url=""
+minor="http://"
+gui="http://"
+kodi="19.0
+theme="http://"
+icon=""
+fanart=""
+preview=""
+adult="no"
+info="http://"
+description="GREEN BUILDS"
+
 name="Green KreOS"
 version="1.2"
 url="https://www.dropbox.com/s/l333xvftcucgem4/GreenRevolution12.zip?dl=1"
@@ -12,7 +26,7 @@ adult="no"
 info="http://"
 description="[COLOR lime]Kodi Balkan Green - KreOS.[/COLOR]"
 
-name="Green KreOS (full)"
+name="Green KreOS (Seren)"
 version="1.2"
 url="https://www.dropbox.com/s/71c2acrg5f4vmc6/GreenRevolution.zip?dl=1"
 minor="http://"
@@ -67,8 +81,7 @@ fanart=""
 preview=""
 adult="no"
 info="http://"
-description="ZADAR BUILDS
-
+description="ZADAR BUILDS"
 
 name="N01"
 version=".0.0.1.8"
@@ -82,7 +95,6 @@ preview="http://"
 adult="no"
 description="Uzivajte u N01 Build by ZadarBuild.eu"
 
-
 name="Sensation"
 version=".0.0.1.7"
 url="http://zadarbuild.eu/wizard/Builds/sensation-0.0.1.1.zip"
@@ -94,7 +106,6 @@ fanart="http://zadarbuild.eu/wizard/Slike/sensation.png"
 preview="http://"
 adult="no"
 description="Uzivajte u Sensation Build by ZadarBuild.eu"
-
 
 name="Juventus"
 version="0.0.1.7"
@@ -156,7 +167,6 @@ preview="http://"
 adult="no"
 description="Uzivajte u LionNeon Build by ZadarBuild.eu"
 
-
 name="Black-Lion"
 version="0.0.1.4"
 url="https://zadarbuild.eu/wizard/Builds/blacklion-0.0.1.1.zip"
@@ -168,7 +178,6 @@ fanart="http://zadarbuild.eu/wizard/Slike/black-lion-logo.png"
 preview="http://"
 adult="no"
 description="Uzivajte u BlackLion Build by ZadarBuild.eu"
-
 
 name="Beautiful Life"
 version="0.0.1.3"
@@ -182,7 +191,6 @@ preview="http://"
 adult="no"
 description="Uzivajte u Beautiful Life Build by ZadarBuild.eu"
 
-
 name="Hajduk Build"
 version="0.0.1.3"
 url="https://zadarbuild.eu/wizard/Builds/Hajduk-Split-0.0.1.1.zip"
@@ -194,7 +202,6 @@ fanart="http://zadarbuild.eu/wizard/Slike/hajduk.png"
 preview="http://"
 adult="no"
 description="Uzivajte u Hajduk Build by ZadarBuild.eu"
-
 
 name="Dinamo Build"
 version="0.0.1.2"

@@ -28,7 +28,7 @@ description="[COLOR lime]Kodi Balkan Green - KreOS.[/COLOR]"
 
 name="Green KreOS (Saren)"
 version="1.2"
-url="https://api.onedrive.com/v1.0/shares/s!AoRJJ7eXsXdtiUKqlP230OCdlWqb/root/content"
+url="http://zadarbuild.eu/wizard/Builds/lionkids-0.0.1.1.zip"
 minor="http://"
 gui="http://"
 kodi="19.5"

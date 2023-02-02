@@ -1,6 +1,6 @@
 name="Green Revolution - kreOS"
 version="4.0"
-url="https://www.dropbox.com/s/466t3qkv6vwve42/GreenRevolution13.zip?dl=1"
+url="https://www.dropbox.com/s/2yaczqc1kkkk938/GreenRevolution14.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="19.5"

@@ -10,7 +10,7 @@ fanart="http://builds.drycloth.org/GREENREVOLUTION/kodi.pozadina.jpg"
 preview="https://www.youtube.com/watch?v=nr3cBToa2Jk&t=27s"
 adult="no"
 info="http://"
-description="[COLOR lime]REVOLUTION BUILD[/COLOR] [COLOR white]Ne placajte ovu besplatnu instalaciju[/COLOR]. Pratite nas na[/COLOR] [COLOR cyan]Facebook[/COLOR] [COLOR white]grupi:[/COLOR] [COLOR lime]Balkan Green[/COLOR] [COLOR white]ili putem[/COLOR] [COLOR cyan]web stranice[/COLOR] [COLOR lime]kodibalkan.org[/COLOR]. [COLOR white]Vas[/COLOR]  [COLOR lime]Kodi Balkan Green.[/COLOR]"
+description="[COLOR lime]Kodi Balkan Green - KreOS.[/COLOR]"
 
 name="PVR Fix"
 version="1.0"

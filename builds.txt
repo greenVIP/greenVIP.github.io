@@ -28,7 +28,7 @@ description="[COLOR lime]Kodi Balkan Green - KreOS.[/COLOR]"
 
 name="Green KreOS BalkanTV and Seren"
 version="2.0"
-url=https://www.dropbox.com/scl/fi/o0nuivxa3fggzcw83umtu/GreenBalkantv.zip?rlkey=xqn1ay5lj4zl46xgpuoa3mjim&dl=1"
+url="https://www.dropbox.com/scl/fi/o0nuivxa3fggzcw83umtu/GreenBalkantv.zip?rlkey=3sqq1g8udyyy8pkntgkdknbti&dl=1"
 gui="http://"
 kodi="19.5"
 theme="http://"
